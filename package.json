@@ -4,8 +4,8 @@
   "description": "Application which enables users to quickly find information related to movies, and also enable them to create their own Movie Collections.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "http-server"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server",
     "lint":".node_modules/.bin/eslint"
   },
   "repository": {

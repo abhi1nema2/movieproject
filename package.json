@@ -1,0 +1,25 @@
+{
+  "name": "movieproject",
+  "version": "1.0.0",
+  "description": "Application which enables users to quickly find information related to movies, and also enable them to create their own Movie Collections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server"
+    "lint":".node_modules/.bin/eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi1nema2/movieproject.git"
+  },
+  "keywords": [],
+  "author": "Abhishek Nema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhi1nema2/movieproject/issues"
+  },
+  "homepage": "https://github.com/abhi1nema2/movieproject#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
